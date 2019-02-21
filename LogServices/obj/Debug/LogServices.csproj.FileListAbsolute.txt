@@ -1,0 +1,7 @@
+c:\users\azcui\source\repos\AppBelatrix\LogServices\bin\Debug\LogServices.dll
+c:\users\azcui\source\repos\AppBelatrix\LogServices\bin\Debug\LogServices.pdb
+c:\users\azcui\source\repos\AppBelatrix\LogServices\obj\Debug\LogServices.csprojAssemblyReference.cache
+c:\users\azcui\source\repos\AppBelatrix\LogServices\obj\Debug\LogServices.csproj.CoreCompileInputs.cache
+c:\users\azcui\source\repos\AppBelatrix\LogServices\obj\Debug\LogServices.dll
+c:\users\azcui\source\repos\AppBelatrix\LogServices\obj\Debug\LogServices.pdb
+c:\Users\azcui\source\repos\AppBelatrix\LogServices\bin\Debug\LogServices.dll.config

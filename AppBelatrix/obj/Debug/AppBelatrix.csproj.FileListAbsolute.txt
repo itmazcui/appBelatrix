@@ -1,0 +1,11 @@
+c:\users\azcui\source\repos\AppBelatrix\AppBelatrix\bin\Debug\AppBelatrix.exe.config
+c:\users\azcui\source\repos\AppBelatrix\AppBelatrix\bin\Debug\AppBelatrix.exe
+c:\users\azcui\source\repos\AppBelatrix\AppBelatrix\bin\Debug\AppBelatrix.pdb
+c:\users\azcui\source\repos\AppBelatrix\AppBelatrix\bin\Debug\LogServices.dll
+c:\users\azcui\source\repos\AppBelatrix\AppBelatrix\bin\Debug\LogServices.pdb
+c:\users\azcui\source\repos\AppBelatrix\AppBelatrix\obj\Debug\AppBelatrix.csprojAssemblyReference.cache
+c:\users\azcui\source\repos\AppBelatrix\AppBelatrix\obj\Debug\AppBelatrix.csproj.CoreCompileInputs.cache
+c:\users\azcui\source\repos\AppBelatrix\AppBelatrix\obj\Debug\AppBelatrix.csproj.CopyComplete
+c:\users\azcui\source\repos\AppBelatrix\AppBelatrix\obj\Debug\AppBelatrix.exe
+c:\users\azcui\source\repos\AppBelatrix\AppBelatrix\obj\Debug\AppBelatrix.pdb
+c:\Users\azcui\source\repos\AppBelatrix\AppBelatrix\bin\Debug\LogServices.dll.config
